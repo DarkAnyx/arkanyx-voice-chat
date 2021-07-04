@@ -1,6 +1,6 @@
 
 
-# Avc
+# Arkanyx Voice Chat
 
 This project was generated using [Nx](https://nx.dev).
 

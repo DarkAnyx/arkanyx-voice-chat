@@ -29,6 +29,13 @@
   "projects": {
     "avc-backend": {
       "tags": []
+    },
+    "avc-client": {
+      "tags": []
+    },
+    "avc-client-e2e": {
+      "tags": [],
+      "implicitDependencies": ["avc-client"]
     }
   }
 }
